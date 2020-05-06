@@ -1,0 +1,7 @@
+^LICENSE\.md$
+.envrc
+environment.yml
+^doc$
+^Meta$
+^\.github$
+^\.github/workflows/R-CMD-check\.yaml$
