@@ -4,7 +4,7 @@
 <!-- badges: start -->
 
 [![R build
-status](https://github.com/percyfal/ripr/workflows/R-CMD-check/badge.svg)](https://github.com/percyfal/ripr/actions)
+status](https://github.com/NBISweden/ripr/workflows/R-CMD-check/badge.svg)](https://github.com/NBISweden/ripr/actions)
 <!-- badges: end -->
 
 ## Overview
